@@ -15,5 +15,5 @@ function sendNotification(email) {
             
 }
 
-const mailAddress = sendNotification ("saifurrahman@@gmail.com");
+const mailAddress = sendNotification ("saifurrahman@gmail.com");
 console.log(mailAddress);
