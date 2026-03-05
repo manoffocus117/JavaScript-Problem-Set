@@ -1,0 +1,1 @@
+the function tell_joke() bellow log a funny message every 2 seconds and after 10 seconds, it stops
